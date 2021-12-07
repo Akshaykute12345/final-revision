@@ -99,3 +99,8 @@ function Topic() {
     </div>
   );
 }
+
+
+1. mohini added some code here below !!
+// React Router app is the same as code-splitting
+// any other React app
